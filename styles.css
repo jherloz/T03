@@ -1,0 +1,32 @@
+h1 {
+    color: #00ff00;
+    display: flex;
+    justify-content: space-around;
+}
+
+body {
+    background-color: #000000;
+}
+
+label {
+    color: #ffffff;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#formulario {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+#formulario>input {
+    width: 100%;
+}
+
+#lista {
+    list-style-type: none;
+}
